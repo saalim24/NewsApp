@@ -1,4 +1,4 @@
-#A very basic ReactApp to show News using NewsAPI
+# A very basic ReactApp to show News using NewsAPI
 
 # Getting Started with Create React App
 
